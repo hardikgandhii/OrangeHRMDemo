@@ -1,0 +1,208 @@
+2025-07-10 23:25:38,936 INFO com.orangehrm.base.BaseClass [main] Configuration loaded successfully.
+2025-07-10 23:25:38,998 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:25:49,860 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:25:53,021 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:25:55,022 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:25:55,022 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:25:55,089 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:25:55,214 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:25:55,249 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:25:55,380 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin123' into element: By.cssSelector: input[type='password']
+2025-07-10 23:25:56,512 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:25:58,081 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //li[1]//a[1]//span[1]
+2025-07-10 23:25:58,115 INFO com.orangehrm.actiondriver.ActionDriver [main] Element visibility for By.xpath: //li[1]//a[1]//span[1]: true
+2025-07-10 23:25:58,654 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:25:58,654 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:31:44,098 INFO com.orangehrm.base.BaseClass [main] Configuration loaded successfully.
+2025-07-10 23:31:44,163 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:31:50,848 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:31:55,088 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:31:57,118 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:31:57,118 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:31:57,260 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:31:57,518 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:31:57,589 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:31:57,977 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin12345' into element: By.cssSelector: input[type='password']
+2025-07-10 23:31:59,354 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:32:01,083 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']
+2025-07-10 23:32:01,188 INFO com.orangehrm.actiondriver.ActionDriver [main] Text match: expected='Invalid credentials', actual='Invalid credentials'
+2025-07-10 23:32:03,969 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:32:03,970 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:32:03,973 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:32:08,717 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:32:12,128 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:32:14,131 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:32:14,131 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:32:14,229 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:32:14,463 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:32:14,533 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:32:14,886 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin123' into element: By.cssSelector: input[type='password']
+2025-07-10 23:32:16,318 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:32:18,010 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //li[1]//a[1]//span[1]
+2025-07-10 23:32:18,044 INFO com.orangehrm.actiondriver.ActionDriver [main] Element visibility for By.xpath: //li[1]//a[1]//span[1]: true
+2025-07-10 23:32:18,097 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.className: oxd-userdropdown-tab
+2025-07-10 23:32:19,304 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.className: oxd-userdropdown-tab
+2025-07-10 23:32:19,400 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.xpath: //a[text()='Logout']
+2025-07-10 23:32:21,273 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.xpath: //a[text()='Logout']
+2025-07-10 23:32:21,663 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:32:21,663 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:34:21,442 INFO com.orangehrm.base.BaseClass [main] Configuration loaded successfully.
+2025-07-10 23:34:21,488 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:34:24,435 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:34:27,358 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:34:29,390 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:34:29,390 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:34:29,507 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:34:29,655 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:34:29,687 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:34:29,899 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin12345' into element: By.cssSelector: input[type='password']
+2025-07-10 23:34:31,058 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:34:32,780 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']
+2025-07-10 23:34:32,819 INFO com.orangehrm.actiondriver.ActionDriver [main] Text match: expected='Invalid credentials', actual='Invalid credentials'
+2025-07-10 23:34:33,180 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:34:33,182 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:34:33,183 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:34:35,432 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:34:38,619 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:34:40,628 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:34:40,628 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:34:40,742 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:34:40,971 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:34:41,000 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:34:41,123 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin123' into element: By.cssSelector: input[type='password']
+2025-07-10 23:34:42,233 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:34:43,911 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //li[1]//a[1]//span[1]
+2025-07-10 23:34:43,937 INFO com.orangehrm.actiondriver.ActionDriver [main] Element visibility for By.xpath: //li[1]//a[1]//span[1]: true
+2025-07-10 23:34:43,980 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.className: oxd-userdropdown-tab
+2025-07-10 23:34:45,170 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.className: oxd-userdropdown-tab
+2025-07-10 23:34:45,247 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.xpath: //a[text()='Logout']
+2025-07-10 23:34:47,219 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.xpath: //a[text()='Logout']
+2025-07-10 23:34:47,613 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:34:47,613 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:40:43,120 INFO com.orangehrm.base.BaseClass [main] Configuration loaded successfully.
+2025-07-10 23:40:43,153 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:40:45,842 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:40:49,188 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:40:51,211 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:40:51,213 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:40:51,314 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:40:51,478 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:40:51,510 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:40:51,723 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin12345' into element: By.cssSelector: input[type='password']
+2025-07-10 23:40:52,883 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:40:54,478 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']
+2025-07-10 23:40:54,514 INFO com.orangehrm.actiondriver.ActionDriver [main] Text match: expected='Invalid credentials', actual='Invalid credentials'
+2025-07-10 23:40:54,886 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:40:54,886 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:40:54,888 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:40:56,963 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:40:59,782 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:41:01,784 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:41:01,784 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:41:01,816 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:41:01,926 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:41:01,956 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:41:02,082 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin123' into element: By.cssSelector: input[type='password']
+2025-07-10 23:41:03,201 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:41:04,824 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //li[1]//a[1]//span[1]
+2025-07-10 23:41:04,847 INFO com.orangehrm.actiondriver.ActionDriver [main] Element visibility for By.xpath: //li[1]//a[1]//span[1]: true
+2025-07-10 23:41:04,897 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.className: oxd-userdropdown-tab
+2025-07-10 23:41:06,074 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.className: oxd-userdropdown-tab
+2025-07-10 23:41:06,133 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.xpath: //a[text()='Logout']
+2025-07-10 23:41:08,089 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.xpath: //a[text()='Logout']
+2025-07-10 23:41:08,494 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:41:08,494 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:44:06,433 INFO com.orangehrm.base.BaseClass [main] Configuration loaded successfully.
+2025-07-10 23:44:06,471 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:44:09,467 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:44:12,775 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:44:14,798 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:44:14,800 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:44:14,901 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:44:15,031 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:44:15,077 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:44:15,236 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin12345' into element: By.cssSelector: input[type='password']
+2025-07-10 23:44:16,403 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:44:17,858 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']
+2025-07-10 23:44:17,892 INFO com.orangehrm.actiondriver.ActionDriver [main] Text match: expected='Invalid credentials', actual='Invalid credentials'
+2025-07-10 23:44:18,336 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:44:18,336 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:44:18,339 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:44:20,598 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:44:23,266 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:44:25,275 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:44:25,275 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:44:25,350 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:44:25,534 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:44:25,569 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:44:25,770 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin123' into element: By.cssSelector: input[type='password']
+2025-07-10 23:44:26,902 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:44:28,539 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //li[1]//a[1]//span[1]
+2025-07-10 23:44:28,563 INFO com.orangehrm.actiondriver.ActionDriver [main] Element visibility for By.xpath: //li[1]//a[1]//span[1]: true
+2025-07-10 23:44:28,605 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.className: oxd-userdropdown-tab
+2025-07-10 23:44:29,738 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.className: oxd-userdropdown-tab
+2025-07-10 23:44:30,385 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.xpath: //a[text()='Logout']
+2025-07-10 23:44:32,458 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.xpath: //a[text()='Logout']
+2025-07-10 23:44:32,807 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:44:32,807 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-10 23:44:32,812 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-10 23:44:34,812 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-10 23:44:38,073 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-10 23:44:40,089 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-10 23:44:40,089 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-10 23:44:40,136 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-10 23:44:40,276 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-10 23:44:40,308 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-10 23:44:40,422 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin123' into element: By.cssSelector: input[type='password']
+2025-07-10 23:44:41,567 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-10 23:44:43,130 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //li[1]//a[1]//span[1]
+2025-07-10 23:44:43,152 INFO com.orangehrm.actiondriver.ActionDriver [main] Element visibility for By.xpath: //li[1]//a[1]//span[1]: true
+2025-07-10 23:44:43,480 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-10 23:44:43,496 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-12 16:35:30,613 INFO com.orangehrm.base.BaseClass [main] Configuration loaded successfully.
+2025-07-12 16:35:30,658 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-12 16:35:35,335 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-12 16:35:38,856 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-12 16:35:40,865 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-12 16:35:40,865 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-12 16:35:40,930 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-12 16:35:41,022 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-12 16:35:41,061 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-12 16:35:41,161 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin12345' into element: By.cssSelector: input[type='password']
+2025-07-12 16:35:43,320 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-12 16:35:43,709 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']
+2025-07-12 16:35:43,741 INFO com.orangehrm.actiondriver.ActionDriver [main] Text match: expected='Invalid credentials', actual='Invalid credentials'
+2025-07-12 16:35:44,043 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-12 16:35:44,043 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-12 16:35:44,043 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-12 16:35:45,996 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-12 16:35:49,064 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-12 16:35:51,075 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-12 16:35:51,075 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-12 16:35:51,104 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-12 16:35:51,204 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-12 16:35:51,235 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-12 16:35:51,343 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin123' into element: By.cssSelector: input[type='password']
+2025-07-12 16:35:52,437 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-12 16:35:53,906 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //li[1]//a[1]//span[1]
+2025-07-12 16:35:53,918 INFO com.orangehrm.actiondriver.ActionDriver [main] Element visibility for By.xpath: //li[1]//a[1]//span[1]: true
+2025-07-12 16:35:53,966 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.className: oxd-userdropdown-tab
+2025-07-12 16:35:55,064 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.className: oxd-userdropdown-tab
+2025-07-12 16:35:55,631 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is clickable: By.xpath: //a[text()='Logout']
+2025-07-12 16:35:57,815 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.xpath: //a[text()='Logout']
+2025-07-12 16:35:58,108 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-12 16:35:58,108 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
+2025-07-12 16:35:58,108 INFO com.orangehrm.base.BaseClass [main] 🔧 Test setup started...
+2025-07-12 16:35:59,882 INFO com.orangehrm.base.BaseClass [main] Launched browser: chrome
+2025-07-12 16:36:02,930 INFO com.orangehrm.base.BaseClass [main] Configured browser with implicitWait=10s and opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-12 16:36:04,942 INFO com.orangehrm.actiondriver.ActionDriver [main] WebDriver and wait initialized with timeout: 30 seconds
+2025-07-12 16:36:04,942 INFO com.orangehrm.base.BaseClass [main] ActionDriver initialized.
+2025-07-12 16:36:04,978 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.name: username
+2025-07-12 16:36:05,067 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'Admin' into element: By.name: username
+2025-07-12 16:36:05,095 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.cssSelector: input[type='password']
+2025-07-12 16:36:05,187 INFO com.orangehrm.actiondriver.ActionDriver [main] Entered text: 'admin123' into element: By.cssSelector: input[type='password']
+2025-07-12 16:36:06,300 INFO com.orangehrm.actiondriver.ActionDriver [main] Clicked element: By.cssSelector: button[type='submit']
+2025-07-12 16:36:07,786 INFO com.orangehrm.actiondriver.ActionDriver [main] Element is visible: By.xpath: //li[1]//a[1]//span[1]
+2025-07-12 16:36:07,799 INFO com.orangehrm.actiondriver.ActionDriver [main] Element visibility for By.xpath: //li[1]//a[1]//span[1]: true
+2025-07-12 16:36:08,118 INFO com.orangehrm.base.BaseClass [main] WebDriver quit successfully.
+2025-07-12 16:36:08,118 INFO com.orangehrm.base.BaseClass [main] Test cleanup complete.
